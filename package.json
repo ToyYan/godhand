@@ -1,0 +1,26 @@
+{
+  "name": "godhand",
+  "version": "1.0.0",
+  "description": "神抓手，商品抓图助手",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Toy",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "requirejs": "^2.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToyYan/godhand.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ToyYan/godhand/issues"
+  },
+  "homepage": "https://github.com/ToyYan/godhand#readme"
+}

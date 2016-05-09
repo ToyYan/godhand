@@ -1,0 +1,19 @@
+#godhand_btn{
+	border-radius: 25px;
+	box-shadow: 0px 0px 7px #000;
+	width:50px;
+	height:50px;
+	position: absolute;
+
+	right:30px;
+	bottom:30px;
+	background-image: url('chrome-extension://aoinfjcbgcbgelfpdngecielkkchacfn/icons/64.png');
+	background-size: 50px 50px;
+	cursor: pointer;
+	z-index:9999999;
+
+}
+
+#godhand{
+
+}
